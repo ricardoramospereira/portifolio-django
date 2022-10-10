@@ -1,0 +1,6 @@
+git init - inicializa um repositório
+git add . - adicionar tudo para o commit
+git commit -m "first commit" - coloca todos os arquivos na fila, e entre aspas duplas o nome para identificar
+git branch -M main = indica que esse é o repositório principal
+git remote add origin git@.... = indica o endereço do github no repositório criado no github
+git push -u origin main = vai ser a origem do projeto
